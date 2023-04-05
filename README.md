@@ -1,3 +1,3 @@
-npm init
+Be Sure To Start The Server.js in Terminal First  
 
-npm install openai express body-parser cors dotenv
+Enjoy :)
